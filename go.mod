@@ -1,4 +1,4 @@
-module github.com/ethicalaakash/cf-records
+module github.com/ethicalaakash/cf-dns-search
 
 go 1.22.4
 
