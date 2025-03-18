@@ -19,8 +19,8 @@ This tool connects to Cloudflare's API and:
 ## Installation
 
 ```bash
-git clone <repository-url>
-cd cf
+git clone git@github.com:ethicalaakash/cf-dns-search.git
+cd cf-dns-search
 go mod download
 ```
 
